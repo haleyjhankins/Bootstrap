@@ -1,0 +1,9 @@
+body {
+  background:;
+}
+
+@media (max-width: 768px) {
+  .change {
+    flex-direction: column-reverse;
+  }
+}
